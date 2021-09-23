@@ -1,0 +1,37 @@
+body {
+    background-image: linear-gradient(to right top, #cb193f, #cb005e, #c0097e, #aa299d, #8540b7, #a241b8, #bc43b7, #d547b5, #ff568a, #ff895e, #ffc444, #edfb5f);
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 60px;
+    background-color: lightpink;
+}
+img{
+    margin-left: 420px;
+}
+
+p{
+    color:honeydew;
+    border: solid 2px black;
+}
+
+table{
+    text-align: center;
+    background-color: skyblue;
+    border: solid 2px black;
+    padding: 50px;
+    height: 100px;
+    width: 100%;
+}
+
+a{ 
+    color: honeydew;
+    text-decoration-line: none;
+    font-size: 25px;
+
+}
+
+footer {
+    background-color: lightpink;
+}
