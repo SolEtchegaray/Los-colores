@@ -32,6 +32,29 @@ a{
 
 }
 
+h2{
+    font-family: cursive;
+    color: honeydew;
+}
+
+.forms{
+    display: block;
+    font-family: cursive;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+div{
+    border: solid 3px honeydew;
+    width: 800px;
+    padding: 20px;
+}
+
+label{
+    color: honeydew;
+}
+
+
 footer {
     background-color: lightpink;
 }
